@@ -1,0 +1,31 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "type": "object",
+    "properties": {
+        "workout_id": { "type": "string" },
+        "workout_name": { "type": "string" },
+        "workout_type": { "type": "string" },
+        "workout_description": { "type": "string" },
+        "workout_level_text": { "type": "string" },
+        "workout_description_long": { "type": "string" },
+        "needs_rings": { "type": "boolean"},
+        "needs_pullupbar": { "type": "boolean"},
+        "needs_mat": { "type": "boolean"},
+        "needs_weights": { "type": "boolean"},
+        "needs_climbingwall": { "type": "boolean"},
+        "reference": { "type": "string" },
+        "duration": { "type": "integer" },
+        "exercises": {
+            "type": "array",
+            "items": {
+                "$ref": "./schema-exercise.json",
+                "required": ["exercise_name", "sets", "reps", "time_pause_set"],
+                "dependencies": {
+                    "time_exercise": ["time_pause"]
+                }
+            }
+        } 
+    },
+    "required": ["workout_name", "exercises"],
+    "additionalProperties": false
+}
