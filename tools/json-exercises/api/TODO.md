@@ -1,4 +1,0 @@
-- api doc
-- api url
-- load file provider 
-- fix internal url for file loading
