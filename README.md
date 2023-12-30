@@ -2,6 +2,7 @@
 
 Hangboard Exercises in abbreviated [nomenclature](nomenclature.md):
 
+* [MVC Based 10 Day Cycle](MVC-Based-10-Day-Cycle.md).
 * [Eric Hörst 7-53 Protocol](Hoerst-7-53-Protocol.md).
 * [Basic Power Endurance](Basic-Power-Endurance.md).
 * [Density Hangs](Density-Hangs.md).
