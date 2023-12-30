@@ -1,4 +1,4 @@
-## The “7-53” fingerboard protocol details - Eric Hörst
+# The “7-53” fingerboard protocol details - Eric Hörst
 + Choose two to five different grip positions. Consider including:
   + Half crimps
   + Full crimps
@@ -13,5 +13,6 @@
   + Complete a total of 2 – 5 sets.
 
 
-  # References
-  * Excellent summary of the routines by Eric Hörst: https://strengthclimbing.com/eric-horst-7-53-hangboard-routine/
+# References
+* Excellent summary of the routines by Eric Hörst: https://strengthclimbing.com/eric-horst-7-53-hangboard-routine/
+* Original website: https://trainingforclimbing.com/4-fingerboard-strength-protocols-that-work/
