@@ -1,5 +1,9 @@
+# Eva López MaxHangs strength training protocol 
++ MAW Protocol: 2-5x MAXHang @8-22mm W+5-55kg 5-15(1-5):180-300s
++ MED Protocol: 3x MEDHang @5-10mm 7(3):180s
 
-## Eva López MaxHangs strength training protocol 
+## Details
+
 + Always warm up properly before doing the MaxHangs hangboard routine.
 + Perform three to four sets with increasing added weight or decreasing edge depth (50 – 90% of the previous session’s load).
 + The number of MaxHangs sets can be varied between 2 – 5. (Beginners should start with two sets.)
@@ -8,8 +12,7 @@
 + The rest time between sets can be varied between 3 – 5 minutes. (Typical rest time between sets: 3 minutes.)
 
 ### Margin
-<img src="./doc/margin_lopez.png" width="500"/>
-
+<img src="./references/margin_lopez.png" width="500"/>
 
 ### Eva López MaxHangs hangboard routine details (MAW)
 + Choose a grip position to train.
@@ -20,10 +23,6 @@
 + During each set try to assess the time margin you have left on the hang.
   + If you feel like your margin exceeds 3 seconds, add 2 – 5 kg for the next set, depending on bodyweight.
   + If you feel like your margin approaches zero, subtract 2 – 5 kg for the next set, depending on bodyweight.
-
-# Eva López strength for Reference
-+ 3x MEDHang @5-10mm 7(3):180s
-+ 2-5x MAXHang @8-22mm W+5-55kg 5-15(1-5):180-300s
 
 
 ### Eva López MaxHangs hangboard routine details (MED)

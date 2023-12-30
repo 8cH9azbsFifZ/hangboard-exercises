@@ -1,4 +1,11 @@
-# Density Hangs
+# Density Hangs (Dr. Tylor Nelson)
++ 4-9x 2-3x 20-40:10-20:180-300s
++ Hang:Rest = 1:2 Ratio
++ MVC-7 load	55 - 85%
+   Density hangs are ideally performed without added load, at around 75% of maximum strength (MVC-7)
++ A typical training cycle is 4 – 5 weeks.
+
+## Details
 + Choose 2 - 3 hold positions for training. Consider:
   + Slopers
   + Half crimp
@@ -27,13 +34,5 @@
 + To add variety to your hangboard sessions and to maintain an elevated heart rate, you can make circuits, to include lower extremity and upper extremity (bar isometrics) workouts in between individual hangs.
 + A typical training cycle is 4 – 5 weeks.
 
-# Density Hangs (Nelson)
-+ 4-9x 2-3x 20-40:10-20:180-300s
-+ Hang:Rest = 1:2 Ratio
-+ MVC-7 load	55 - 85%
-   Density hangs are ideally performed without added load, at around 75% of maximum strength (MVC-7)
-+ A typical training cycle is 4 – 5 weeks.
-
 # References
-+ Ref: https://strengthclimbing.com/dr-tyler-nelsons-density-hangs-finger-training-for-rock-climbing/
-+ Density Hangs by Tylor Nelson: https://strengthclimbing.com/dr-tyler-nelsons-density-hangs-finger-training-for-rock-climbing/
++ [Density Hangs by Tylor Nelson](https://strengthclimbing.com/dr-tyler-nelsons-density-hangs-finger-training-for-rock-climbing/)

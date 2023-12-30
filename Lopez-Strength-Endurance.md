@@ -1,6 +1,17 @@
 
-## Eva López IntHangs strength endurance fingerboard protocol
+# Eva López IntHangs strength endurance fingerboard protocol
 
+## Eva López SubHangs MED strength endurance
++ 4-8x Hang @8-22mm 20-45(30-120)s
++ 4-8x SubHangsMED @8-22mm 20-45(30-120)s
++ 4-8x SubHangsMAX @14-20mm 20-45(30-120)s
+
+## Eva López IntHangs MED strength endurance 
++ 3-5x 4-5x Hang @8-22mm 7-10(3-30)60-120s
++ 3-5x 4-5x IntHangsMED @8-22mm 7-10(3-30)60-120s
++ 3-5x 4-5x IntHangsMAX @10-18mm 7-10(3-30)60-120s
+
+## Details
 + Always warm up properly before doing IntHangs strength endurance hangboard workouts.
 + Perform four to five 10-second sets, with a 5-second pause and decreasing edge depth or increasing load.
 + For the first warm-up set, the edge depth/load should allow you to hang for one minute.
@@ -42,11 +53,6 @@
 + Perform 3 – 5 sets.
 
 
-
-
-
-
-
 ## Eva López SubHangs strength endurance protocol
 + The SubHangs strength endurance MAW protocol is only recommended for advanced climbers with a lot of training experience. Beginners and intermediate should stick to SubHangs MED.
 + Make sure to warm up your shoulders before you start the protocol. The longer hangs, above 30 seconds, can be very straining on the shoulders and potentially lead to rotator cuff injuries.
@@ -71,16 +77,6 @@
 + Choose an edge on which you can hang between 20 and 45 seconds.
 + Perform one hang of 20 – 45 seconds, rest for 30 seconds up to 2 minutes.
 + Perform 4 – 8 sets.
-
-# Eva López SubHangs MED strength endurance for Reference
-+ 4-8x Hang @8-22mm 20-45(30-120)s
-+ 4-8x SubHangsMED @8-22mm 20-45(30-120)s
-+ 4-8x SubHangsMAX @14-20mm 20-45(30-120)s
-
-# Eva López IntHangs MED strength endurance for Reference
-+ 3-5x 4-5x Hang @8-22mm 7-10(3-30)60-120s
-+ 3-5x 4-5x IntHangsMED @8-22mm 7-10(3-30)60-120s
-+ 3-5x 4-5x IntHangsMAX @10-18mm 7-10(3-30)60-120s
 
 
 ### Eva López SubHangs MAW protocol details

@@ -1,4 +1,4 @@
-# Basic Power Endurance
+# Basic Power Endurance Protocol
 + 1x 5x Hang @Jug 10:20:120s
 + 1x 5x PullUps @Jug 2x:20:120s
 + 1x 5x Hang @30mm &Front3 10:20:120s
