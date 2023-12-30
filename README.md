@@ -1,6 +1,6 @@
 # Exercises
 
-Abbreviated (nomenclature)[nomenclature.md].
+Abbreviated [nomenclature](nomenclature.md).
 
 # Eva López strength for Reference
 + 3x MEDHang @5-10mm 7(3):180s
