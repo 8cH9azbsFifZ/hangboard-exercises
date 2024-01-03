@@ -12,3 +12,8 @@
 + §4b Hypertrophy 3x 4x 10:3:60s 60% (5,6 min)	
 + §5a Strength: 7x 1x 7:0:90s 80% (11,3 min)
 + §5b Strength: 7x 1x 5:0:90s 90% (11,1 min)
+
+
+# References
+- (Climbro protoco (?))[https://climbro.com/]
+- (How to Get Stronger Fingers (Testing + Training Explained))[https://www.youtube.com/watch?v=T3hEOT8sLg0]
