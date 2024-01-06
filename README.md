@@ -13,6 +13,11 @@ aiming to push your limits, these protocols provide structured and effective tra
 The hangboard exercises are described in an abbreviated [nomenclature](nomenclature.md)
 following roughly the notation used by Eva Lopez.
 
+# Exercises
+* MaxHangs
+* Deadhangs
+* 1 Hand Hangs
+
 # Workouts
 * [Warmup](Warmup.md)
 * [Eric Hörst 7-53 Protocol](Hoerst-7-53-Protocol.md).
