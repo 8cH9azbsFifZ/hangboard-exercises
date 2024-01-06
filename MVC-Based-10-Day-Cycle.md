@@ -15,5 +15,5 @@
 
 
 # References
-- (Climbro protoco (?))[https://climbro.com/]
+- (Climbro protocol (?))[https://climbro.com/]
 - (How to Get Stronger Fingers (Testing + Training Explained))[https://www.youtube.com/watch?v=T3hEOT8sLg0]
