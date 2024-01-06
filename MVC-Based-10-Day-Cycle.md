@@ -1,5 +1,5 @@
 # MVC Based 10 Day Cycle
-+ Perform a MVC Maximal strength test (i.e. on a 20mm edge)
++ Perform a (MVC Maximal strength test)[MVC-Test.md] (i.e. on a 20mm edge)
 
 # Schedule for 10 days (2 sessions per day, 1 day off in between)
 + §1a Low intensity endurance: 3x 10x 6:2:90s 35% (8,5min)
