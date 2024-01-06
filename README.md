@@ -1,6 +1,6 @@
 # Hangboard Exercises, Workouts and Training Plans for Climbing Training
 
-Welcome to the hangnoard-exercises repository! 🧗‍♂️💪
+Welcome to the hangboard-exercises repository! 🧗‍♂️💪
 
 This comprehensive collection gathers popular hangboard protocols for climbing training, 
 designed to help climbers of all levels enhance their finger strength, grip endurance, 
