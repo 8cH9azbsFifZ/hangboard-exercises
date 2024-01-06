@@ -1,0 +1,15 @@
+        {
+            "ID": "HRST-S-2",
+            "Name": "Maximum Weight 10-Second Protocol",
+            "Type": "Maximal Strength",
+            "Description": "A period of dedicated minimum-edge fingerboard training will eventually lead you to the point of needing to train on tiny, painful edges to keep with the protocol detailed above. Enter the “maximum weight” protocol, which involves using larger, more comfortable holds, but with added weight to create sufficiently high intensity for maximum-strength adaptations. The ideal size edge for weighted fingerboard hangs is between 14mm and 20mm (5/8 to 7/8 inch), or a little less than one finger-pad depth—this moderate size lessens skin pain, reduces strain on the distal finger joint, and has been proven effective to develop maximum-strength gains that will carry over to different-size edges on the rock. Hanging weight plates from harness. Hanging weight plates from harness via Rogue loading pin. This and the next exercise present two maximum-weight hangboard protocols that really work. Do two to five sets of one or the other—not both!—focusing mainly on the half-crimp or open-crimp grips, although advanced climbers may want to dedicate a few sets to pocket and pinch grips. The amount of weight added will be significant (generally between 25 and, for elites, 100 pounds!), so you’ll need to invest in a heavy weight vest, several weight belts, or hang a combination of free weight plates from the belay loop of your harness. The latter is the best solution when working with a high amount of weight since you can easily unclip the weights to de-load between hangs and sets. Do a 10-second hang using a feature that you can barely hold for 13 seconds with maximum effort. Adjust weight as needed to meet these criteria. Rest for exactly 3 minutes. Do four more hangs following the above protocol. Each hang should be near maximal (rating of perceived exertion of 9 to 9.5 out of 10), but not quite take you to failure. After doing the first set of five hangs, rest at least 5 minutes before doing a second set of five hangs. Initially focus on training the half-crimp and open-crimp grip—one set each. Advanced climbers can do additional sets that target two-finger pockets (open-hand) and pinch grip. Be sure to rest at least 5 minutes between sets, and adjust the amount of weight added for each set (and grip position) to stay within the guidelines detailed above."
+            ,
+            "Sets":
+            [
+                { "Rest-to-Start": 5,       "Exercise": "Hang", 			    "Counter": 10, 	"Pause": 180,    "Reps": 5, "Left": "15mm", "Right": "15mm", "Description": ""} ,
+                { "Rest-to-Start": 5,       "Exercise": "Hang", 			    "Counter": 10, 	"Pause": 180,    "Reps": 5, "Left": "15mm", "Right": "15mm", "Description": ""} ,
+                { "Rest-to-Start": 5,       "Exercise": "Hang", 			    "Counter": 10, 	"Pause": 180,    "Reps": 5, "Left": "15mm", "Right": "15mm", "Description": ""} 
+            ]
+        },
+
+        
