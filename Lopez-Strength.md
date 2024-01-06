@@ -35,4 +35,4 @@
   + If you feel like your margin approaches zero, increase the edge depth by 1 – 2 mm, according to the perceived effort.
 
 # References:
-* Excellent summary of the routines by Eva Lopez https://strengthclimbing.com/eva-lopez-maxhangs/ and https://strengthclimbing.com/eva-lopez-subhangs-climbing-endurance-protocol/
+* [Excellent summary of the routines by Eva Lopez](https://strengthclimbing.com/eva-lopez-maxhangs/ and https://strengthclimbing.com/eva-lopez-subhangs-climbing-endurance-protocol/)

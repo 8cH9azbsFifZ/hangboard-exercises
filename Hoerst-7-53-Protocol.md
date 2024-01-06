@@ -14,5 +14,5 @@
 
 
 # References
-* Excellent summary of the routines by Eric Hörst: https://strengthclimbing.com/eric-horst-7-53-hangboard-routine/
-* Original website: https://trainingforclimbing.com/4-fingerboard-strength-protocols-that-work/
+* [Excellent summary of the routines by Eric Hörst](https://strengthclimbing.com/eric-horst-7-53-hangboard-routine/)
+* [Original website](https://trainingforclimbing.com/4-fingerboard-strength-protocols-that-work/)

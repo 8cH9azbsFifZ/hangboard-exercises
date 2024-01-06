@@ -85,4 +85,4 @@
 + Perform 4 – 8 sets.
 
 # References:
-* Excellent summary of the routines by Eva Lopez https://strengthclimbing.com/eva-lopez-maxhangs/ and https://strengthclimbing.com/eva-lopez-subhangs-climbing-endurance-protocol/
+* [Excellent summary of the routines by Eva Lopez](https://strengthclimbing.com/eva-lopez-maxhangs/ and https://strengthclimbing.com/eva-lopez-subhangs-climbing-endurance-protocol/)
