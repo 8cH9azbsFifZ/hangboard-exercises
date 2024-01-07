@@ -33,6 +33,7 @@ following roughly the notation used by Eva Lopez.
 
 # Training Plans
 * [MVC Based 10 Day Cycle](MVC-Based-10-Day-Cycle.md).
+* [MaxHang Advanced](Eva-Lopez-MaxHang-Advanced-Trainingplan.md)
 
 # Hangboard Equipment with Force Measurements
 This is a list of some hangboard training devices with force measuring capabilities.
