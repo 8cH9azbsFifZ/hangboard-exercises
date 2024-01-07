@@ -101,3 +101,7 @@ contrast.
     + 5 x [MaxHangs MAW x 14 mm x 10"(2):3'; MaxHangs MED x 5"(1)]:4
 4. Week 4
     + 5 x [MaxHangs MAW x 14. mm x 10"(2):3'; MaxHangs MED x 5"(1)]:4
+
+
+# References
++ Eva Lopez Training Plans
