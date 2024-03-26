@@ -40,6 +40,7 @@ following roughly the notation used by Eva Lopez.
 This is a list of some hangboard training devices with force measuring capabilities.
 
 ## Open Source
+* [Hangmabn](https://github.com/kesyog/hangman)
 * [isometryx](https://github.com/oalam/isometryx)
 * [Hangboard](https://github.com/8cH9azbsFifZ/hangboard/)
 * [Handboard-App](https://github.com/MWaug/hangboard-app)
