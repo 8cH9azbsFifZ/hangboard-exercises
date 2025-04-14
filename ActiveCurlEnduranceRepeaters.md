@@ -1,12 +1,13 @@
-# Active Curl Endurance Repaters
+# Active Curl Endurance Repaters (AC ER)
 
 - Test Active Curl Critical Force (CF)
 - 2 - 3 sets/hand for off-the-wall sessions
-    - 1st set at high load (70 - 80% CF) (7 seconds contraction, 4 seconds rest)
-    - Rest 5 - 10 min.
-    - 2nd set at medium load (70% CF) (7 seconds contraction, 4 seconds rest)
-    - Rest 5 - 10 min.
+    - 1st set at high load (70 - 80% CF) (7 seconds contraction, 4 seconds rest), Rest 5 - 10 min. 
+      In short notation: 8x AC @20mm 80%CF 7:4s:5min  
+    - 2nd set at medium load (70% CF) (7 seconds contraction, 4 seconds rest), Rest 5 - 10 min.
+      In short notation: 8x AC @20mm 70%CF 7:4s:5min  
     - 3rd set at low load (60 - 65% CF) (7 seconds contraction, 4 seconds rest)
+      In short notation: 8x AC @20mm 60%CF 7:4s  
 - 1 set at 65-75% CF to top up a lead climbing or bouldeirng sessions (7 seconds contraction, 4 seconds rest)
 
 Reference:
