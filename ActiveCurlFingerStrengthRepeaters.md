@@ -12,3 +12,4 @@
 
 Reference:
 - Climb Like a Pro: The Ultimate Tindeq Drill Every Rock Climber Needs!, Strength Climbing: https://www.youtube.com/watch?v=_QShdvOM0os
+- Finger Strength Training 4 Rock Climbing (No Hanging Required!), Tyler Nelson: https://www.youtube.com/watch?v=hNhzF1XsWPs
